@@ -2,7 +2,7 @@
   "name": "new-twitter-alphacamp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://s339428326.github.io/AlphaCamp-Twitter",
+  "homepage": "https://bensonybs.github.io/AlphaCamp-Twitter",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
