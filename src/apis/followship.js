@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const FOLLOW_URL = "https://twitter.zeabur.app/api/followships";
+const FOLLOW_URL = "https://twitter-api-trww6pqemq-de.a.run.app/api/followships";
 // const FOLLOW_URL = "https://shielded-brook-33484.herokuapp.com/api/followships";
 
 const axiosInstance = axios.create({ baseURL: FOLLOW_URL });

@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const ADMIN_URL = "https://twitter.zeabur.app/api/admin";
+const ADMIN_URL = "https://twitter-api-trww6pqemq-de.a.run.app/api/admin";
 // const ADMIN_URL = "https://shielded-brook-33484.herokuapp.com/api/admin/users";
 
 const axiosInstance = axios.create({
