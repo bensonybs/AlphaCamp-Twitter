@@ -1,7 +1,7 @@
 import axios from "axios";
 import Swal from "sweetalert2";
 
-const BASE = "https://twitter-api-trww6pqemq-de.a.run.app";
+const BASE = "http://ec2-3-113-16-92.ap-northeast-1.compute.amazonaws.com:3001";
 // const BASE = "https://shielded-brook-33484.herokuapp.com";
 
 const BASE_URL = BASE + "/api/users/";

@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const TWEET_URL = "https://twitter-api-trww6pqemq-de.a.run.app/api/tweets";
+const TWEET_URL = "http://ec2-3-113-16-92.ap-northeast-1.compute.amazonaws.com:3001/api/tweets";
 // const TWEET_URL = "https://shielded-brook-33484.herokuapp.com/api/tweets";
 
 const axiosInstance = axios.create({ baseURL: TWEET_URL });
