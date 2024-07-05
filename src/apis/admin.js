@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const ADMIN_URL = "http://ec2-3-113-16-92.ap-northeast-1.compute.amazonaws.com:3001/api/admin";
+const ADMIN_URL = "https://twitter.bensonybs.site/api/admin";
 // const ADMIN_URL = "https://shielded-brook-33484.herokuapp.com/api/admin/users";
 
 const axiosInstance = axios.create({
